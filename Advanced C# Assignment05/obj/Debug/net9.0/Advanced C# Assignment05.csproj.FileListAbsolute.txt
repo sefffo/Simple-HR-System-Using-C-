@@ -1,0 +1,15 @@
+S:\Road to full stack\BackEnd\Assignments\C#\Advanced C# Assignment05\Advanced C# Assignment05\obj\Debug\net9.0\Advanced C# Assignment05.GeneratedMSBuildEditorConfig.editorconfig
+S:\Road to full stack\BackEnd\Assignments\C#\Advanced C# Assignment05\Advanced C# Assignment05\obj\Debug\net9.0\Advanced C# Assignment05.AssemblyInfoInputs.cache
+S:\Road to full stack\BackEnd\Assignments\C#\Advanced C# Assignment05\Advanced C# Assignment05\obj\Debug\net9.0\Advanced C# Assignment05.AssemblyInfo.cs
+S:\Road to full stack\BackEnd\Assignments\C#\Advanced C# Assignment05\Advanced C# Assignment05\obj\Debug\net9.0\Advanced C# Assignment05.csproj.CoreCompileInputs.cache
+S:\Road to full stack\BackEnd\Assignments\C#\Advanced C# Assignment05\Advanced C# Assignment05\obj\Debug\net9.0\Advanced C# Assignment05.sourcelink.json
+S:\Road to full stack\BackEnd\Assignments\C#\Advanced C# Assignment05\Advanced C# Assignment05\bin\Debug\net9.0\Advanced C# Assignment05.exe
+S:\Road to full stack\BackEnd\Assignments\C#\Advanced C# Assignment05\Advanced C# Assignment05\bin\Debug\net9.0\Advanced C# Assignment05.deps.json
+S:\Road to full stack\BackEnd\Assignments\C#\Advanced C# Assignment05\Advanced C# Assignment05\bin\Debug\net9.0\Advanced C# Assignment05.runtimeconfig.json
+S:\Road to full stack\BackEnd\Assignments\C#\Advanced C# Assignment05\Advanced C# Assignment05\bin\Debug\net9.0\Advanced C# Assignment05.dll
+S:\Road to full stack\BackEnd\Assignments\C#\Advanced C# Assignment05\Advanced C# Assignment05\bin\Debug\net9.0\Advanced C# Assignment05.pdb
+S:\Road to full stack\BackEnd\Assignments\C#\Advanced C# Assignment05\Advanced C# Assignment05\obj\Debug\net9.0\Advanced C# Assignment05.dll
+S:\Road to full stack\BackEnd\Assignments\C#\Advanced C# Assignment05\Advanced C# Assignment05\obj\Debug\net9.0\refint\Advanced C# Assignment05.dll
+S:\Road to full stack\BackEnd\Assignments\C#\Advanced C# Assignment05\Advanced C# Assignment05\obj\Debug\net9.0\Advanced C# Assignment05.pdb
+S:\Road to full stack\BackEnd\Assignments\C#\Advanced C# Assignment05\Advanced C# Assignment05\obj\Debug\net9.0\Advanced C# Assignment05.genruntimeconfig.cache
+S:\Road to full stack\BackEnd\Assignments\C#\Advanced C# Assignment05\Advanced C# Assignment05\obj\Debug\net9.0\ref\Advanced C# Assignment05.dll
